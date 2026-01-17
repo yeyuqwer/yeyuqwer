@@ -1,16 +1,35 @@
-# Hi there 👋, I'm Ye Yu (叶鱼) ~
+# Hi there 👋, I'm Ye Yu (叶鱼)
 
-> ~(\*￣ ▽ ￣\*)ブ
+### |•̅ᴗ•̅)ﾉ"
 
-**A soon-to-graduate university student who enjoys front-end technology and Haibara Ai（灰原哀／はいばら あい）(´▽`ʃ♡ƪ)".**
+A soon-to-graduate university student who enjoys front-end technology and Haibara Ai（灰原哀／はいばら あい）(´▽`ʃ♡ƪ)".
 
-### <p> (❀╹◡╹) => Learning:</p>
+```shell
+  ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷    叶鱼 & Neil Ye
+  ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇    SYSTEM:
+  ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽    OS: macOS Tahoe 26.2 arm64
+  ⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕    Host: MacBook Air (15-inch, M4, 2025)
+  ⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕    Memory: 24.00 GiB
+  ⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕    Disk: 926.35 GiB
+  ⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄    ───────────
+  ⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕    DEV ENV:
+  ⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿    Editor: Visual Studio Code
+  ⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿    Keyboard: NIZ ATOM 68 & Minilo 65% Bluebell
+  ⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟    ───────────
+  ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠    TECH STACK:
+  ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙    Language: TypeScript
+  ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣    Frameworks: Next.js & NestJS
+```
 
-<p>
-  <img src="./img/Next.js.webp" height="140px" />
-  <img src="./img/TypeScript.webp" height="140px" />
-  <img src="./img/React.webp" height="140" />
-  <img src="./img/Tailwindcss.webp" height="140px" />
-  <img src="./img/Vue.webp" height="140px" />
-  <img src="./img/Golang.webp" height="140px" />
-</p>
+### Skills ᕙ(⇀‸↼‵‵)ᕗ
+
+- TypeScript
+- Nextjs
+- NestJS
+- TailwindCSS
+
+### Learning \_へ(´-｀；)
+
+- Figma (UI Design)
+- Finance (All-in on A-shares)
+- Japanese (Want to live by the Seto Inland Sea)
