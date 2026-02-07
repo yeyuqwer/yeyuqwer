@@ -33,3 +33,12 @@ A soon-to-graduate university student who enjoys front-end technology and Haibar
 - Figma (UI Design)
 - Finance (All-in on A-shares)
 - Japanese (Want to live by the Seto Inland Sea)
+
+### ₍^. .^₎⟆
+
+<p align="center">
+  <img
+    src="https://count.getloli.com/@yeyuqwer?name=yeyuqwer&theme=booru-lewd&padding=8&offset=10&align=center&scale=1.5&pixelated=1&darkmode=auto"
+    alt=":name"
+  />
+</p>
