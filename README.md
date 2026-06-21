@@ -8,7 +8,7 @@ Working towards retirement.
 
 ```shell
   ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷    WHOAMI:
-  ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇    Name: 叶鱼 & Ryo Ye
+  ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇    Name: 叶鱼 & Yuri Ye
   ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽    Role: TypeScript Full-Stack Developer
   ⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕    Focus: Frontend & UI/UX & Web3
   ⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕    Goal: Retirement
@@ -29,7 +29,22 @@ Working towards retirement.
 - 桜島 麻衣
 - 紬 ヴェンダース
 - 間桐 桜
+
+<details>
+<summary>...</summary>
+
+- 遠坂 凛 
+- 錦木 千束
+- 井ノ上 たきな
+- 八奈見 杏菜
+- 周防 有希
+- 椎名 真白
+- 伊地知 虹夏
+- 白咲 花
+- 結城 明日奈
 - ...
+
+</details>
 
 ### Skills ᕙ(⇀‸↼‵‵)ᕗ
 
