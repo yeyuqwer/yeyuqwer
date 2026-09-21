@@ -16,11 +16,11 @@ Working towards retirement.
   ⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄    DEV ENV:
   ⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕    Terminal: kitty
   ⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿    Editor: VSCodium & neovim
-  ⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿    Keyboard: NIZ ATOM 68 & HHKB Snow & Minilo Bluebell
+  ⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿    Keyboard: NIZ ATOM 68 & Minilo Bluebell
   ⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟    ───────────
   ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠    TECH STACK:
   ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙    Language: TypeScript
-  ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣    Frameworks: Next.js & NestJS
+  ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣    Frameworks: Next.js & Hono
 ```
 
 ### Best Girls (´▽`ʃ♡ƪ)
@@ -43,6 +43,15 @@ Working towards retirement.
 - 伊地知 虹夏
 - 白咲 花
 - 結城 明日奈
+- 安和 すばる
+- 時崎 狂三
+- 藤原 千花
+- 有馬 かな
+- 菲伦
+- 宮水 三葉
+- 天野 陽菜 
+- 北白川 たまこ
+- 蝶野 雛
 - ...
 
 </details>
@@ -51,13 +60,13 @@ Working towards retirement.
 
 - TypeScript
 - Nextjs
+- Hono
 - NestJS
-- TailwindCSS
 
 ### Learning \_へ(´-｀；)
 
 - Figma (UI Design)
-- Finance (All-in on A-shares)
+- Finance (All-in on A-shares. Believer in 600030😋)
 - Japanese (Want to live by the Seto Inland Sea)
 - AI (The Future)
 
